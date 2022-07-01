@@ -1,5 +1,6 @@
 
-
+# 整体架构
+![整体架构图](./resources/Rpc%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
 
 # 测试方法
 1、运行 Server：
